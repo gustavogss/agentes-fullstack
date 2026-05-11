@@ -1,0 +1,13 @@
+- Nunca usar any
+- Sempre usar Zod
+- Sanitizar todos inputs
+- Nunca expor secrets
+- Nunca acessar Firebase direto da UI
+- Sempre usar services
+- Sempre tratar erros
+- Sempre loading states
+- Sempre acessibilidade
+- Sempre componentizar
+- Sempre tipar retornos
+- Nunca usar lógica na tela
+- Nunca usar AsyncStorage para tokens sensíveis
